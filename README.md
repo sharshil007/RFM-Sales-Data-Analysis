@@ -37,6 +37,6 @@ Determines the best-selling product line in the United States ('USA') by year.
 Benefits:
 This Sales Data Analysis project equips businesses with actionable insights to make informed decisions. By understanding their sales patterns, customer behavior, and product associations, organizations can optimize marketing strategies, inventory management, and customer relationships.
 
-![image](https://github.com/sharshil007/RFM-Sales-Data-Analysis/assets/110207080/12eac1a5-bcbe-477e-abdd-7b242e536733)
 ![image](https://github.com/sharshil007/RFM-Sales-Data-Analysis/assets/110207080/bd08c7c3-c1ae-42fe-b22f-84e166ab51a1)
+![image](https://github.com/sharshil007/RFM-Sales-Data-Analysis/assets/110207080/12eac1a5-bcbe-477e-abdd-7b242e536733)
 
